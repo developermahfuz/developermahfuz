@@ -2,9 +2,9 @@
 
 #### Full_Stack Web Developer & WordPress, Ecommerce Expert
 
- 🔭 I’m currently working on fiverr.com 
- 🌱 I’m currently learning web developer 
- 💬 Ask me about www.mahfuzahmad.com 
+- 🔭 I’m currently working on fiverr.com 
+- 🌱 I’m currently learning web developer 
+- 💬 Ask me about www.mahfuzahmad.com 
 
 ![Profile views](https://gpvc.arturio.dev/developermahfuz)  
 
