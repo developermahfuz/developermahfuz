@@ -10,11 +10,11 @@
 
 I’m developer Mahfuz passionate at web design & development I’m working minimum of 12-13 hours every day, l love to do this. My goal is to satisfy clients, I delve further into the client's requirements and issues .and you will get support for every problem
 
-## 👨‍💻 Skills: 
+## 👨‍💻 Skills & Experiance:
 
 ✅ Wordpress <br>
-✅ HTML/HTML5 
-✅ CSS/CSS3
+✅ HTML/HTML5 <br>
+✅ CSS/CSS3 <br>
 
 
 
