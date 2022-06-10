@@ -2,13 +2,11 @@
 
 #### Full_Stack Web Developer & WordPress, Ecommerce Expert
 
-- 🔭 I’m currently working on fiverr.com 
-- 🌱 I’m currently learning web developer 
-- 💬 Ask me about www.mahfuzahmad.com 
+🔭 I’m currently working on fiverr.com 
+🌱 I’m currently learning web developer 
+💬 Ask me about www.mahfuzahmad.com 
 
 ![Profile views](https://gpvc.arturio.dev/developermahfuz)  
-
-![Full_Stack Web Developer & WordPress, Ecommerce Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m developer Mahfuz passionate at web design & development I’m working minimum of 12-13 hours every day, l love to do this. My goal is to satisfy clients, I delve further into the client's requirements and issues .and you will get support for every problem
 
